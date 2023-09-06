@@ -7,7 +7,6 @@ This README provides an overview of the Hangman game implemented in React. The g
 - [Getting Started](#getting-started)
 - [Gameplay](#gameplay)
 - [Customization](#customization)
-- [License](#license)
 
 ## Project Structure
 
